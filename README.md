@@ -1,1 +1,1 @@
-# My website: https://shailesh-tripathi.github.io/
+My website: https://shailesh-tripathi.github.io/
