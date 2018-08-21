@@ -1124,11 +1124,11 @@
 	blockquote {
 		border-left: solid 0.5em #ddd;
 		padding: 1em 0 1em 2em;
-		font-style: italic;
+		font-style: normal;
 	}
 
 	em, i {
-		font-style: italic;
+		font-style: normal;
 	}
 
 	hr {
@@ -1244,28 +1244,28 @@
 
 	form .formerize-placeholder {
 		color: #555 !important;
-		font-style: italic;
+		font-style: normal;
 	}
 
 	form ::-webkit-input-placeholder {
 		color: #555 !important;
-		font-style: italic;
+		font-style: normal;
 		line-height: 1.35em;
 	}
 
 	form :-moz-placeholder {
 		color: #555 !important;
-		font-style: italic;
+		font-style: normal;
 	}
 
 	form ::-moz-placeholder {
 		color: #555 !important;
-		font-style: italic;
+		font-style: normal;
 	}
 
 	form :-ms-input-placeholder {
 		color: #555 !important;
-		font-style: italic;
+		font-style: normal;
 	}
 
 	form ::-moz-focus-inner {
